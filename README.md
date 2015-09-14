@@ -5,3 +5,4 @@ test for fast forward
 test for fast forward 2
 fix bug 101
 append user1
+add user2
